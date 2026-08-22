@@ -1,0 +1,16 @@
+# Block all new folders by default
+/*
+
+# Keep and allow only these three folders
+!/Data Visualisation ML/
+!/Data Visualisation ML/**
+
+!/Numpy ML/
+!/Numpy ML/**
+
+!/Pandas ML/
+!/Pandas ML/**
+
+# Ignore temporary Jupyter and Anaconda files
+.ipynb_checkpoints/
+anaconda_projects/
