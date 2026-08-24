@@ -1,0 +1,24 @@
+ID,Name,Email,Age,City,Salary,Joining_Date,Gender
+16,Isha,isha@example.com,23.0,Mumbai,64000,2026-09-09,Female
+10,Sonal,sonal@example.com,29.0,Nashik,54000,2026-08-18,Female
+1, Rutik ,rutik@example.com,21.0,Pune,85000,2026-01-15,Male
+9,Kiran,kiran@example.com,28.0,Nagpur,,11/08/2026,Other
+18,Om,om@example.com,21.0,Pune,62000,2026-09-12,Male
+13,Arjun,arjun@example.com,150.0,Pune,73000,2026-09-03,Male
+2,Amit,amit@example.com,,Mumbai,72000,15/02/2026,Male
+14,Tanvi,tanvi@example.com,26.0,Nashik,-45000,2026-09-05,Female
+6,Amit,amit@example.com,25.0,Mumbai,72000,2026-02-15,Male
+3,Sneha,sneha@example,22.0, pune ,65000,2026/03/10,Female
+12,Meena, meena@example.com ,31.0,Mumbai,62000,2026-09-01,Female
+6,Amit,amit@example.com,25.0,Mumbai,72000,2026-02-15,Male
+4,Priya,priya@example.com,23.0,Nashik,70000,10-04-2026,female
+5,Rahul,,24.0,Mumbai,68000,2026-05-20,Male
+19,Aditya,aditya@example.com,25.0,Mumbai,71000,invalid_date,Male
+17,Riya,riya@example.com,22.0,pune,67000,2026-09-11,F
+10,Sonal,sonal@example.com,29.0,Nashik,54000,2026-08-18,Female
+,,,,,,,
+8,Vikram,vikram@example.com,27.0,,95000,2026-07-11,Male
+11,Rohit,rohit@example.com,30.0,Pune,58000,2026-08-20,M
+15,Sagar,sagar@example.com,24.0,Pune,59000,2026-09-07,
+20,Pooja,pooja@example.com,26.0,Nashik,56000,2026-09-15,Female
+7,Neha,NEHA@EXAMPLE.COM,-2.0,Pune,61000,2026-06-05,F
