@@ -1,0 +1,9 @@
+transaction_id,customer_name,join_date,purchase_amount,category,status
+TXN-101,  Sarah Connor  ,2023-01-15,$150.00,Electronics,Completed
+TXN-102,mike ross,02/20/2023,89.5,clothings,COMPLETED
+TXN-103,Harvey Specter,2023-03-01,-45.00,Electronics,Pending
+TXN-104,Rachel Zane,2023-03-05,N/A,Home & Kitchen,cancelled
+TXN-105,Louis Litt,2023-03-12,210.0,Electronics,Completed
+TXN-105,Louis Litt,2023-03-12,210.0,Electronics,Completed
+TXN-106,,2023/04/01,120.75,Clothings,COMPLETED
+TXN-107,Donna Paulsen,2023-04-10,999999.00,home & kitchen,Completed
