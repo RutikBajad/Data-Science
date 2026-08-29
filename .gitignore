@@ -11,6 +11,15 @@
 !/Pandas ML/
 !/Pandas ML/**
 
+!/Data Cleaning/
+!/Data Cleaning/**
+
+!/Maths/
+!/Maths/**
+
+!/ML Foundation/
+!/ML Foundation/**
+
 # Ignore temporary Jupyter and Anaconda files
 .ipynb_checkpoints/
 anaconda_projects/
